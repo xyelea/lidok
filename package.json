@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@lexical/react": "^0.17.0",
+    "@lexical/rich-text": "^0.17.0",
+    "@liveblocks/react-ui": "^2.5.0",
     "@radix-ui/react-slot": "^1.1.0",
     "@types/node": "22.1.0",
     "@types/react": "18.3.3",
